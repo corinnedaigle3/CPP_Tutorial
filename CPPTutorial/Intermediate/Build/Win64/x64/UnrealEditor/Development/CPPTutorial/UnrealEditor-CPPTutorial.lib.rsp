@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-CPPTutorial.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/corin/OneDrive/Desktop/YoutubeTutorials/CPP_Tutorial/CPPTutorial/Intermediate/Build/Win64/x64/CPPTutorialEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/corin/OneDrive/Desktop/YoutubeTutorials/CPP_Tutorial/CPPTutorial/Intermediate/Build/Win64/x64/UnrealEditor/Development/CPPTutorial/Module.CPPTutorial.cpp.obj"
+"C:/Users/corin/OneDrive/Desktop/YoutubeTutorials/CPP_Tutorial/CPPTutorial/Intermediate/Build/Win64/x64/UnrealEditor/Development/CPPTutorial/Default.rc2.res"
+/OUT:"C:/Users/corin/OneDrive/Desktop/YoutubeTutorials/CPP_Tutorial/CPPTutorial/Intermediate/Build/Win64/x64/UnrealEditor/Development/CPPTutorial/UnrealEditor-CPPTutorial.lib"

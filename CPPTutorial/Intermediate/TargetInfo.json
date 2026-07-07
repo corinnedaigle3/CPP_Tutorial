@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CPPTutorial",
+			"Path": "..\\Source\\CPPTutorial.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CPPTutorialEditor",
+			"Path": "..\\Source\\CPPTutorialEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

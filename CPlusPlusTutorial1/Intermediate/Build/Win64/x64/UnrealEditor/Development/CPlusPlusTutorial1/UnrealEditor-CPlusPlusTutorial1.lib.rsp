@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-CPlusPlusTutorial1.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/corin/OneDrive/Desktop/YoutubeTutorials/CPP_Tutorial/CPlusPlusTutorial1/Intermediate/Build/Win64/x64/CPlusPlusTutorial1Editor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/corin/OneDrive/Desktop/YoutubeTutorials/CPP_Tutorial/CPlusPlusTutorial1/Intermediate/Build/Win64/x64/UnrealEditor/Development/CPlusPlusTutorial1/Module.CPlusPlusTutorial1.1.cpp.obj"
+"C:/Users/corin/OneDrive/Desktop/YoutubeTutorials/CPP_Tutorial/CPlusPlusTutorial1/Intermediate/Build/Win64/x64/UnrealEditor/Development/CPlusPlusTutorial1/Module.CPlusPlusTutorial1.2.cpp.obj"
+"C:/Users/corin/OneDrive/Desktop/YoutubeTutorials/CPP_Tutorial/CPlusPlusTutorial1/Intermediate/Build/Win64/x64/UnrealEditor/Development/CPlusPlusTutorial1/Module.CPlusPlusTutorial1.3.cpp.obj"
+"C:/Users/corin/OneDrive/Desktop/YoutubeTutorials/CPP_Tutorial/CPlusPlusTutorial1/Intermediate/Build/Win64/x64/UnrealEditor/Development/CPlusPlusTutorial1/Default.rc2.res"
+/OUT:"C:/Users/corin/OneDrive/Desktop/YoutubeTutorials/CPP_Tutorial/CPlusPlusTutorial1/Intermediate/Build/Win64/x64/UnrealEditor/Development/CPlusPlusTutorial1/UnrealEditor-CPlusPlusTutorial1.lib"

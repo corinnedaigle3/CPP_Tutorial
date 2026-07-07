@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\CPlusPlusTutorial1.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CPlusPlusTutorial1.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\CPlusPlusTutorial1Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\CPlusPlusTutorial1">
+      <UniqueIdentifier>{E12FFD2D-C4CE-35C0-ABB0-E32CBEBC9EF5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CPlusPlusTutorial1\CPlusPlusTutorial1.Build.cs">
+      <Filter>Source\CPlusPlusTutorial1</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\CPlusPlusTutorial1\CPlusPlusTutorial1.cpp">
+      <Filter>Source\CPlusPlusTutorial1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPlusPlusTutorial1\CPlusPlusTutorial1.h">
+      <Filter>Source\CPlusPlusTutorial1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPlusPlusTutorial1\CPlusPlusTutorial1Character.cpp">
+      <Filter>Source\CPlusPlusTutorial1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPlusPlusTutorial1\CPlusPlusTutorial1Character.h">
+      <Filter>Source\CPlusPlusTutorial1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPlusPlusTutorial1\CPlusPlusTutorial1GameMode.cpp">
+      <Filter>Source\CPlusPlusTutorial1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPlusPlusTutorial1\CPlusPlusTutorial1GameMode.h">
+      <Filter>Source\CPlusPlusTutorial1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPlusPlusTutorial1\CPlusPlusTutorial1PlayerController.cpp">
+      <Filter>Source\CPlusPlusTutorial1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPlusPlusTutorial1\CPlusPlusTutorial1PlayerController.h">
+      <Filter>Source\CPlusPlusTutorial1</Filter>
+    </ClInclude>
+    <Filter Include="Source\CPlusPlusTutorial1\Variant_Combat">
+      <UniqueIdentifier>{E1DB2093-E4DB-33EC-84B2-1C204E1BE272}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CPlusPlusTutorial1\Variant_Combat\CombatCharacter.cpp">
+      <Filter>Source\CPlusPlusTutorial1\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPlusPlusTutorial1\Variant_Combat\CombatCharacter.h">
+      <Filter>Source\CPlusPlusTutorial1\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPlusPlusTutorial1\Variant_Combat\CombatGameMode.cpp">
+      <Filter>Source\CPlusPlusTutorial1\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPlusPlusTutorial1\Variant_Combat\CombatGameMode.h">
+      <Filter>Source\CPlusPlusTutorial1\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPlusPlusTutorial1\Variant_Combat\CombatPlayerController.cpp">
+      <Filter>Source\CPlusPlusTutorial1\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPlusPlusTutorial1\Variant_Combat\CombatPlayerController.h">
+      <Filter>Source\CPlusPlusTutorial1\Variant_Combat</Filter>
+    </ClInclude>
+    <Filter Include="Source\CPlusPlusTutorial1\Variant_Combat\AI">
+      <UniqueIdentifier>{E73F89F4-682D-318D-9B05-568A345A42F1}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CPlusPlusTutorial1\Variant_Combat\AI\CombatAIController.cpp">
+      <Filter>Source\CPlusPlusTutorial1\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPlusPlusTutorial1\Variant_Combat\AI\CombatAIController.h">
+      <Filter>Source\CPlusPlusTutorial1\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPlusPlusTutorial1\Variant_Combat\AI\CombatEnemy.cpp">
+      <Filter>Source\CPlusPlusTutorial1\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPlusPlusTutorial1\Variant_Combat\AI\CombatEnemy.h">
+      <Filter>Source\CPlusPlusTutorial1\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPlusPlusTutorial1\Variant_Combat\AI\CombatEnemySpawner.cpp">
+      <Filter>Source\CPlusPlusTutorial1\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPlusPlusTutorial1\Variant_Combat\AI\CombatEnemySpawner.h">
+      <Filter>Source\CPlusPlusTutorial1\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPlusPlusTutorial1\Variant_Combat\AI\CombatStateTreeUtility.cpp">
+      <Filter>Source\CPlusPlusTutorial1\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPlusPlusTutorial1\Variant_Combat\AI\CombatStateTreeUtility.h">
+      <Filter>Source\CPlusPlusTutorial1\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPlusPlusTutorial1\Variant_Combat\AI\EnvQueryContext_Player.cpp">
+      <Filter>Source\CPlusPlusTutorial1\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPlusPlusTutorial1\Variant_Combat\AI\EnvQueryContext_Player.h">
+      <Filter>Source\CPlusPlusTutorial1\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <Filter Include="Source\CPlusPlusTutorial1\Variant_Combat\Animation">
+      <UniqueIdentifier>{80061CB4-DDA0-3576-B6E0-97B5F2E286D6}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CPlusPlusTutorial1\Variant_Combat\Animation\AnimNotify_CheckChargedAttack.cpp">
+      <Filter>Source\CPlusPlusTutorial1\Variant_Combat\Animation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPlusPlusTutorial1\Variant_Combat\Animation\AnimNotify_CheckChargedAttack.h">
+      <Filter>Source\CPlusPlusTutorial1\Variant_Combat\Animation</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPlusPlusTutorial1\Variant_Combat\Animation\AnimNotify_CheckCombo.cpp">
+      <Filter>Source\CPlusPlusTutorial1\Variant_Combat\Animation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPlusPlusTutorial1\Variant_Combat\Animation\AnimNotify_CheckCombo.h">
+      <Filter>Source\CPlusPlusTutorial1\Variant_Combat\Animation</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPlusPlusTutorial1\Variant_Combat\Animation\AnimNotify_DoAttackTrace.cpp">
+      <Filter>Source\CPlusPlusTutorial1\Variant_Combat\Animation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPlusPlusTutorial1\Variant_Combat\Animation\AnimNotify_DoAttackTrace.h">
+      <Filter>Source\CPlusPlusTutorial1\Variant_Combat\Animation</Filter>
+    </ClInclude>
+    <Filter Include="Source\CPlusPlusTutorial1\Variant_Combat\Gameplay">
+      <UniqueIdentifier>{895FFEA7-A026-354B-B601-3F2CAAE13DF7}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CPlusPlusTutorial1\Variant_Combat\Gameplay\CombatActivationVolume.cpp">
+      <Filter>Source\CPlusPlusTutorial1\Variant_Combat\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPlusPlusTutorial1\Variant_Combat\Gameplay\CombatActivationVolume.h">
+      <Filter>Source\CPlusPlusTutorial1\Variant_Combat\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPlusPlusTutorial1\Variant_Combat\Gameplay\CombatCheckpointVolume.cpp">
+      <Filter>Source\CPlusPlusTutorial1\Variant_Combat\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPlusPlusTutorial1\Variant_Combat\Gameplay\CombatCheckpointVolume.h">
+      <Filter>Source\CPlusPlusTutorial1\Variant_Combat\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPlusPlusTutorial1\Variant_Combat\Gameplay\CombatDamageableBox.cpp">
+      <Filter>Source\CPlusPlusTutorial1\Variant_Combat\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPlusPlusTutorial1\Variant_Combat\Gameplay\CombatDamageableBox.h">
+      <Filter>Source\CPlusPlusTutorial1\Variant_Combat\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPlusPlusTutorial1\Variant_Combat\Gameplay\CombatDummy.cpp">
+      <Filter>Source\CPlusPlusTutorial1\Variant_Combat\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPlusPlusTutorial1\Variant_Combat\Gameplay\CombatDummy.h">
+      <Filter>Source\CPlusPlusTutorial1\Variant_Combat\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPlusPlusTutorial1\Variant_Combat\Gameplay\CombatLavaFloor.cpp">
+      <Filter>Source\CPlusPlusTutorial1\Variant_Combat\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPlusPlusTutorial1\Variant_Combat\Gameplay\CombatLavaFloor.h">
+      <Filter>Source\CPlusPlusTutorial1\Variant_Combat\Gameplay</Filter>
+    </ClInclude>
+    <Filter Include="Source\CPlusPlusTutorial1\Variant_Combat\Interfaces">
+      <UniqueIdentifier>{B1A45E18-C1C4-3A22-B17F-37242DC3106B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CPlusPlusTutorial1\Variant_Combat\Interfaces\CombatActivatable.cpp">
+      <Filter>Source\CPlusPlusTutorial1\Variant_Combat\Interfaces</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPlusPlusTutorial1\Variant_Combat\Interfaces\CombatActivatable.h">
+      <Filter>Source\CPlusPlusTutorial1\Variant_Combat\Interfaces</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPlusPlusTutorial1\Variant_Combat\Interfaces\CombatAttacker.cpp">
+      <Filter>Source\CPlusPlusTutorial1\Variant_Combat\Interfaces</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPlusPlusTutorial1\Variant_Combat\Interfaces\CombatAttacker.h">
+      <Filter>Source\CPlusPlusTutorial1\Variant_Combat\Interfaces</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPlusPlusTutorial1\Variant_Combat\Interfaces\CombatDamageable.cpp">
+      <Filter>Source\CPlusPlusTutorial1\Variant_Combat\Interfaces</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPlusPlusTutorial1\Variant_Combat\Interfaces\CombatDamageable.h">
+      <Filter>Source\CPlusPlusTutorial1\Variant_Combat\Interfaces</Filter>
+    </ClInclude>
+    <Filter Include="Source\CPlusPlusTutorial1\Variant_Combat\UI">
+      <UniqueIdentifier>{33B0D506-70DF-37EF-A1D2-C2D6819DD6F5}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CPlusPlusTutorial1\Variant_Combat\UI\CombatLifeBar.cpp">
+      <Filter>Source\CPlusPlusTutorial1\Variant_Combat\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPlusPlusTutorial1\Variant_Combat\UI\CombatLifeBar.h">
+      <Filter>Source\CPlusPlusTutorial1\Variant_Combat\UI</Filter>
+    </ClInclude>
+    <Filter Include="Source\CPlusPlusTutorial1\Variant_Platforming">
+      <UniqueIdentifier>{9307AA92-A75C-3F17-884B-57DCE5B14AA7}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CPlusPlusTutorial1\Variant_Platforming\PlatformingCharacter.cpp">
+      <Filter>Source\CPlusPlusTutorial1\Variant_Platforming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPlusPlusTutorial1\Variant_Platforming\PlatformingCharacter.h">
+      <Filter>Source\CPlusPlusTutorial1\Variant_Platforming</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPlusPlusTutorial1\Variant_Platforming\PlatformingGameMode.cpp">
+      <Filter>Source\CPlusPlusTutorial1\Variant_Platforming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPlusPlusTutorial1\Variant_Platforming\PlatformingGameMode.h">
+      <Filter>Source\CPlusPlusTutorial1\Variant_Platforming</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPlusPlusTutorial1\Variant_Platforming\PlatformingPlayerController.cpp">
+      <Filter>Source\CPlusPlusTutorial1\Variant_Platforming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPlusPlusTutorial1\Variant_Platforming\PlatformingPlayerController.h">
+      <Filter>Source\CPlusPlusTutorial1\Variant_Platforming</Filter>
+    </ClInclude>
+    <Filter Include="Source\CPlusPlusTutorial1\Variant_Platforming\Animation">
+      <UniqueIdentifier>{6777459D-7A32-3767-AA94-6DA567726E1C}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CPlusPlusTutorial1\Variant_Platforming\Animation\AnimNotify_EndDash.cpp">
+      <Filter>Source\CPlusPlusTutorial1\Variant_Platforming\Animation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPlusPlusTutorial1\Variant_Platforming\Animation\AnimNotify_EndDash.h">
+      <Filter>Source\CPlusPlusTutorial1\Variant_Platforming\Animation</Filter>
+    </ClInclude>
+    <Filter Include="Source\CPlusPlusTutorial1\Variant_SideScrolling">
+      <UniqueIdentifier>{90DFE336-A5CB-31A6-9200-1EA55B3DAC44}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CPlusPlusTutorial1\Variant_SideScrolling\SideScrollingCameraManager.cpp">
+      <Filter>Source\CPlusPlusTutorial1\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPlusPlusTutorial1\Variant_SideScrolling\SideScrollingCameraManager.h">
+      <Filter>Source\CPlusPlusTutorial1\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPlusPlusTutorial1\Variant_SideScrolling\SideScrollingCharacter.cpp">
+      <Filter>Source\CPlusPlusTutorial1\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPlusPlusTutorial1\Variant_SideScrolling\SideScrollingCharacter.h">
+      <Filter>Source\CPlusPlusTutorial1\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPlusPlusTutorial1\Variant_SideScrolling\SideScrollingGameMode.cpp">
+      <Filter>Source\CPlusPlusTutorial1\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPlusPlusTutorial1\Variant_SideScrolling\SideScrollingGameMode.h">
+      <Filter>Source\CPlusPlusTutorial1\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPlusPlusTutorial1\Variant_SideScrolling\SideScrollingPlayerController.cpp">
+      <Filter>Source\CPlusPlusTutorial1\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPlusPlusTutorial1\Variant_SideScrolling\SideScrollingPlayerController.h">
+      <Filter>Source\CPlusPlusTutorial1\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <Filter Include="Source\CPlusPlusTutorial1\Variant_SideScrolling\AI">
+      <UniqueIdentifier>{54542E96-B14D-3496-8750-7C834AB58DC4}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CPlusPlusTutorial1\Variant_SideScrolling\AI\SideScrollingAIController.cpp">
+      <Filter>Source\CPlusPlusTutorial1\Variant_SideScrolling\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPlusPlusTutorial1\Variant_SideScrolling\AI\SideScrollingAIController.h">
+      <Filter>Source\CPlusPlusTutorial1\Variant_SideScrolling\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPlusPlusTutorial1\Variant_SideScrolling\AI\SideScrollingNPC.cpp">
+      <Filter>Source\CPlusPlusTutorial1\Variant_SideScrolling\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPlusPlusTutorial1\Variant_SideScrolling\AI\SideScrollingNPC.h">
+      <Filter>Source\CPlusPlusTutorial1\Variant_SideScrolling\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPlusPlusTutorial1\Variant_SideScrolling\AI\SideScrollingStateTreeUtility.cpp">
+      <Filter>Source\CPlusPlusTutorial1\Variant_SideScrolling\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPlusPlusTutorial1\Variant_SideScrolling\AI\SideScrollingStateTreeUtility.h">
+      <Filter>Source\CPlusPlusTutorial1\Variant_SideScrolling\AI</Filter>
+    </ClInclude>
+    <Filter Include="Source\CPlusPlusTutorial1\Variant_SideScrolling\Gameplay">
+      <UniqueIdentifier>{ED7C746A-28C3-383C-A183-4F1FCB0C3FFE}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CPlusPlusTutorial1\Variant_SideScrolling\Gameplay\SideScrollingJumpPad.cpp">
+      <Filter>Source\CPlusPlusTutorial1\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPlusPlusTutorial1\Variant_SideScrolling\Gameplay\SideScrollingJumpPad.h">
+      <Filter>Source\CPlusPlusTutorial1\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPlusPlusTutorial1\Variant_SideScrolling\Gameplay\SideScrollingMovingPlatform.cpp">
+      <Filter>Source\CPlusPlusTutorial1\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPlusPlusTutorial1\Variant_SideScrolling\Gameplay\SideScrollingMovingPlatform.h">
+      <Filter>Source\CPlusPlusTutorial1\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPlusPlusTutorial1\Variant_SideScrolling\Gameplay\SideScrollingPickup.cpp">
+      <Filter>Source\CPlusPlusTutorial1\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPlusPlusTutorial1\Variant_SideScrolling\Gameplay\SideScrollingPickup.h">
+      <Filter>Source\CPlusPlusTutorial1\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPlusPlusTutorial1\Variant_SideScrolling\Gameplay\SideScrollingSoftPlatform.cpp">
+      <Filter>Source\CPlusPlusTutorial1\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPlusPlusTutorial1\Variant_SideScrolling\Gameplay\SideScrollingSoftPlatform.h">
+      <Filter>Source\CPlusPlusTutorial1\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+    <Filter Include="Source\CPlusPlusTutorial1\Variant_SideScrolling\Interfaces">
+      <UniqueIdentifier>{23209626-8D21-36E2-BD54-C8AB12B0F3A6}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CPlusPlusTutorial1\Variant_SideScrolling\Interfaces\SideScrollingInteractable.cpp">
+      <Filter>Source\CPlusPlusTutorial1\Variant_SideScrolling\Interfaces</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPlusPlusTutorial1\Variant_SideScrolling\Interfaces\SideScrollingInteractable.h">
+      <Filter>Source\CPlusPlusTutorial1\Variant_SideScrolling\Interfaces</Filter>
+    </ClInclude>
+    <Filter Include="Source\CPlusPlusTutorial1\Variant_SideScrolling\UI">
+      <UniqueIdentifier>{79D38DA5-A76F-342F-A2D6-451A15A86B60}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CPlusPlusTutorial1\Variant_SideScrolling\UI\SideScrollingUI.cpp">
+      <Filter>Source\CPlusPlusTutorial1\Variant_SideScrolling\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPlusPlusTutorial1\Variant_SideScrolling\UI\SideScrollingUI.h">
+      <Filter>Source\CPlusPlusTutorial1\Variant_SideScrolling\UI</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
